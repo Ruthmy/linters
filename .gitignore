@@ -37,4 +37,5 @@ ehthumbs.db
 Thumbs.db
 
 # node files
+node_modules
 node_modules/
